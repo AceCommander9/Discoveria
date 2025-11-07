@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "discoveria:quartz_temple",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 69,
+    "separation": 16,
+    "salt": 1442702598
+  }
+}

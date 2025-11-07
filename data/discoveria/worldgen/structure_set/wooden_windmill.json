@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "discoveria:wooden_windmill",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 8,
+    "salt": 1984259085
+  }
+}

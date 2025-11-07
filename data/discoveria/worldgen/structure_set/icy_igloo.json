@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "discoveria:icy_igloo",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 45,
+    "separation": 10,
+    "salt": 1301188829
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "discoveria:well",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 22,
+    "separation": 19,
+    "salt": 564604555
+  }
+}

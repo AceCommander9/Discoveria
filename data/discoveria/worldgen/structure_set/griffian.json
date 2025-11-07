@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "discoveria:griffian",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 21,
+    "separation": 20,
+    "salt": 1908662945
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "discoveria:large_watchtower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 35,
+    "separation": 19,
+    "salt": 144499648
+  }
+}

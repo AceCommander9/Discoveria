@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "discoveria:giant_cherry",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 5,
+    "separation": 2,
+    "salt": 215632832
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "discoveria:barn",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 31,
+    "separation": 16,
+    "salt": 62448672
+  }
+}

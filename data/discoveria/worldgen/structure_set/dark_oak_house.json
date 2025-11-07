@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "discoveria:dark_oak_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 29,
+    "separation": 10,
+    "salt": 1036707297
+  }
+}

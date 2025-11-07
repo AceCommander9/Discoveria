@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "discoveria:cryptic_dwelling",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 30,
+    "separation": 17,
+    "salt": 301391337
+  }
+}
